@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiogoFer29.
 - 👀 I’m interested in programming and artificial inteligence.
-- 🌱 I’m currently learning AI, Schedule and data communication.
+- 🌱 I’m currently learning AI, programming and data communication.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me phone number (968855991).
 - 😄 Pronouns: Always smiling, funny and smart. 
