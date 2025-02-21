@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiogoFer29.
-- 👀 I’m interested in schedule.
+- 👀 I’m interested in schedule and artificial inteligence.
 - 🌱 I’m currently learning AI, Schedule and data communication.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me phone number (968855991).
